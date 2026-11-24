@@ -32,3 +32,4 @@ To work as a Machine Learning Engineer, building and deploying real-world AI sys
 
 ## 📫 Connect with me
 Open to learning opportunities, internships, and collaboration.
+- LinkedIn: https://www.linkedin.com/in/nagelli-hemanth-869079303/
